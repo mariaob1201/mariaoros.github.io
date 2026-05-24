@@ -75,6 +75,11 @@ ninja.data = [{
           description: "Contributions to an open-source serverless computing platform.",
           section: "Projects",handler: () => {
               window.location.href = "/mariaoros.github.io/projects/4_open_lambda/";
+            },},{id: "projects-dsi-impact-map",
+          title: 'DSI Impact Map',
+          description: "Interactive citation map visualizing the research reach of UW–Madison&#39;s Data Science Institute.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mariaoros.github.io/projects/5_dsi_impact_map/";
             },},{
         id: 'social-cv',
         title: 'CV',
