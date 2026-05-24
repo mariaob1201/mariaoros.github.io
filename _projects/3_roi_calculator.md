@@ -10,4 +10,4 @@ related_publications: false
 
 A decision-support calculator that estimates the economic return on investment of fungicide applications, helping growers weigh costs against expected yield protection.
 
-**Live app:** <https://connect.doit.wisc.edu/cpn-roi-tools/>
+- **Live app:** [connect.doit.wisc.edu/cpn-roi-tools](https://connect.doit.wisc.edu/cpn-roi-tools/)
