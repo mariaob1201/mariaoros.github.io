@@ -1,0 +1,10 @@
+# Social media links and usernames. Order here = display order.
+# Reference: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/MariaOrosBarron_CV.pdf # drop your CV PDF in assets/pdf/ with this filename
+email: moros2@wisc.edu
+scholar_userid: FCNAyHsAAAAJ
+orcid_id: 0009-0006-2067-4063
+github_username: mariaob1201
+linkedin_username: MariaOros
+youtube_id: "@MariaOrosB"
+rss_icon: true # comment this line to hide the RSS icon

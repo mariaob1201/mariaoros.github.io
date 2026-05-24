@@ -1,0 +1,65 @@
+cv:
+  name: Maria Oros Barron
+  label: Data Scientist
+  email: moros2@wisc.edu
+  location: Madison, WI, USA
+  image: ""
+  summary: I develop machine learning methods and statistical models for real-world decision-making.
+
+  social_networks:
+    - network: GitHub
+      username: mariaob1201
+    - network: LinkedIn
+      username: MariaOros
+
+  sections:
+    Education:
+      - institution: CIMAT (Centro de Investigación en Matemáticas)
+        location: Guanajuato, Mexico
+        url: https://www.cimat.mx/
+        area: Mathematics
+        studyType: Graduate studies
+        highlights:
+          - "Mentors: Dr. Carlos Valero, Dr. Rafael Herrera Guzmán."
+
+      - institution: University of Guanajuato
+        location: Guanajuato, Mexico
+        url: https://www.ugto.mx/
+        area: Mathematics
+        studyType: BS
+
+    Experience:
+      - position: Data Scientist
+        name: Data Science Institute, University of Wisconsin–Madison
+        url: https://datascience.wisc.edu/
+        location: Madison, WI
+        startDate: "2023"
+        endDate: "Present"
+        summary: "Developing machine learning methods and statistical models for real-world decision-making across collaborations in agriculture, biopharma, and other domains."
+
+      - position: Data Analyst
+        name: Game Coder Studios
+        startDate: "2022"
+        endDate: "2023"
+
+      - position: Analyst Data Scientist
+        name: BBVA
+        location: Mexico & Spain
+        startDate: "2021"
+        endDate: "2022"
+
+      - position: E-learning / Data
+        name: Aprende Institute
+        startDate: "2021"
+        endDate: "2021"
+
+      - position: Junior Data Scientist
+        name: True Home
+        startDate: "2019"
+        endDate: "2021"
+
+    Skills:
+      - name: Programming
+        keywords: [Python, R, SQL, SAS]
+      - name: Cloud & DevOps
+        keywords: [AWS, GCP, Docker, Git, GitHub]
