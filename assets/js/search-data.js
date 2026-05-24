@@ -7,28 +7,28 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/mariaoros.github.io/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "Publications in reverse chronological order. Also see my Google Scholar.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/mariaoros.github.io/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "Selected research projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/mariaoros.github.io/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum Vitae. Download the PDF using the icon on the right.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/mariaoros.github.io/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -59,28 +59,28 @@ ninja.data = [{
           title: 'Mechanistic modeling of HIC',
           description: "Statistical and ML methods for protein purification via Hydrophobic Interaction Chromatography.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_hic/";
+              window.location.href = "/mariaoros.github.io/projects/1_hic/";
             },},{id: "projects-agricultural-forecasting-system",
           title: 'Agricultural forecasting system',
           description: "Crop disease prediction tool combining weather, field, and historical data.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_agricultural_forecasting/";
+              window.location.href = "/mariaoros.github.io/projects/2_agricultural_forecasting/";
             },},{id: "projects-fungicide-roi-calculator",
           title: 'Fungicide ROI calculator',
           description: "Economic ROI tool for fungicide profitability assessment.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_roi_calculator/";
+              window.location.href = "/mariaoros.github.io/projects/3_roi_calculator/";
             },},{id: "projects-open-lambda",
           title: 'Open Lambda',
           description: "Contributions to an open-source serverless computing platform.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_open_lambda/";
+              window.location.href = "/mariaoros.github.io/projects/4_open_lambda/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/MariaOrosBarron_CV.pdf", "_blank");
+          window.open("/mariaoros.github.io/assets/rendercv/rendercv_output/Maria_Oros_Barron_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -129,7 +129,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("/mariaoros.github.io/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
