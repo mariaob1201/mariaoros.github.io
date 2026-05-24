@@ -10,4 +10,5 @@ related_publications: false
 
 A forecasting system to predict crop disease risk for growers, blending environmental data with statistical models to inform spraying decisions.
 
-<!-- TODO — describe data sources, model approach, and any deployment / impact details. -->
+**Live app:** <https://connect.doit.wisc.edu/ag_forecasting_app/>
+**Source code:** <https://github.com/UW-Madison-DSI/ag_forecasting_app_v3>
