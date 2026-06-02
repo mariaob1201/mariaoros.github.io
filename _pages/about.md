@@ -32,3 +32,9 @@ My research interests sit at the intersection of **causal inference**, **Bayesia
 I studied Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/) in Mexico, with mentorship from Dr. Carlos Valero and Dr. Rafael Herrera Guzmán.
 
 The best way to reach me is by [email](mailto:moros2@wisc.edu).
+
+---
+
+> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
+>
+> — John Tukey, *The Future of Data Analysis* (1962)
