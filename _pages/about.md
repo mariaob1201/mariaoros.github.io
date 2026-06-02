@@ -35,14 +35,6 @@ I studied Mathematics at the [University of Guanajuato](https://www.ugto.mx/) an
 
 I want my work to be useful for the social good — to advance research and to impact the quality of life of many. I believe the way to achieve great things is through **collaboration, rapid iteration, and hard work**. In my collaborations, I try to make people feel supported and valued, so we can both do our best in our contributions.
 
-## A recent reflection
-
-As a first-generation college student, I've been reflecting on my journey and came across someone's post about making influence a life goal. It made me realize that influence itself is neutral — what truly matters is how we choose to use it: to support, mentor, create opportunities, and help others grow.
-
-I'm especially grateful for the people who have supported me throughout my professional journey so far. Their guidance, trust, and encouragement have had a meaningful impact on my path in research and data science, and they remind me how positive mentorship can shape careers and lives. I aim to continue supporting everyone I work with in the same way that I've been supported.
-
----
-
 The best way to reach me is by [email](mailto:moros2@wisc.edu).
 
 > Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
