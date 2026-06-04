@@ -12,3 +12,7 @@ An LLM-based advisory system that helps growers reason about crop disease risk. 
 
 - **Live app:** [connect.doit.wisc.edu/ag_forecasting](https://connect.doit.wisc.edu/ag_forecasting/)
 - **Source code:** [UW-Madison-DSI/ag_forecasting_app_v3](https://github.com/UW-Madison-DSI/ag_forecasting_app_v3)
+
+> "There is a barrier of complexity of models that we can deliver to the masses. This code and tool help remove this barrier. They allow us to use very complex models, including advanced machine learning to improve accuracy, while keeping the usability and availability possible for the agricultural masses."
+>
+> — Damon Smith
