@@ -75,7 +75,7 @@ ninja.data = [{
               window.location.href = "/mariaoros.github.io/projects/3_roi_calculator/";
             },},{id: "projects-open-lambda",
           title: 'Open Lambda',
-          description: "Contributions to an open-source serverless computing platform.",
+          description: "Bridging an open-source serverless research platform into a usable product, in collaboration with DSI.",
           section: "Projects",handler: () => {
               window.location.href = "/mariaoros.github.io/projects/4_open_lambda/";
             },},{id: "projects-dsi-impact-map",
@@ -83,6 +83,11 @@ ninja.data = [{
           description: "Interactive citation map visualizing the research reach of UW–Madison&#39;s Data Science Institute.",
           section: "Projects",handler: () => {
               window.location.href = "/mariaoros.github.io/projects/5_dsi_impact_map/";
+            },},{id: "projects-ai-driven-anomaly-detection",
+          title: 'AI-driven anomaly detection',
+          description: "Partnership with SafeSet — LLM-based anomaly detection on workforce scheduling data to flag safety risk in manufacturing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mariaoros.github.io/projects/6_safeset_anomaly_detection/";
             },},{
         id: 'social-cv',
         title: 'CV',
