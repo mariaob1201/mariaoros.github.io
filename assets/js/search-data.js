@@ -130,7 +130,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@@MariaOrosB", "_blank");
+          window.open("https://youtube.com/@MariaOrosB", "_blank");
         },
       },{
         id: 'social-rss',
