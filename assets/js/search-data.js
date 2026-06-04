@@ -65,7 +65,7 @@ ninja.data = [{
               window.location.href = "/mariaoros.github.io/projects/1_hic/";
             },},{id: "projects-agricultural-forecasting-system",
           title: 'Agricultural forecasting system',
-          description: "Crop disease prediction tool combining weather, field, and historical data.",
+          description: "LLM-based advisory system backed by ML risk-forecasting models trained on Wisconet weather station data.",
           section: "Projects",handler: () => {
               window.location.href = "/mariaoros.github.io/projects/2_agricultural_forecasting/";
             },},{id: "projects-fungicide-roi-calculator",
