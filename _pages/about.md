@@ -27,7 +27,7 @@ latest_posts:
 
 I'm a [Data Scientist](https://dsi.wisc.edu/staff/oros-maria/) at the [Data Science Institute](https://datascience.wisc.edu/) at the University of Wisconsin–Madison, where I develop machine learning methods and statistical models for real-world decision-making.
 
-My research interests sit at the intersection of **causal inference**, **Bayesian statistics**, **machine learning**, **meta-analysis**, and **foundation models** — with a focus on translating theoretical advances into practical applications. Across roles in industry and academia, I've worked on problems in biopharmaceutical purification, agricultural forecasting, finance, and serverless systems.
+My research interests sit at the intersection of **causal inference**, **machine learning**, and **foundation models** — with a focus on translating theoretical advances into practical applications. Across roles in industry and academia, I've worked on problems in biopharmaceutical purification, agricultural forecasting, finance, and serverless systems.
 
 I studied Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/) in Mexico, with mentorship from Dr. Carlos Valero and Dr. Rafael Herrera Guzmán.
 
