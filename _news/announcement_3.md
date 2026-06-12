@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Currently leading the [DSI open-source contributions leaderboard](https://uw-madison-dsi.github.io/open-source-contributions/) at UW–Madison.
+**#1 contributor** on the [UW–Madison DSI open-source leaderboard](https://uw-madison-dsi.github.io/open-source-contributions/).
