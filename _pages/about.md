@@ -33,7 +33,7 @@ I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/)
 
 I want my work to be useful for the social good — to advance research and to impact the quality of life of many. I believe the way to achieve great things is through **collaboration, rapid iteration, and hard work**. In my collaborations, I try to make people feel supported and valued, so we can both do our best in our contributions.
 
-A tangible reflection of this: I'm currently the **#1 contributor** on the [UW–Madison DSI open-source leaderboard](https://uw-madison-dsi.github.io/open-source-contributions/).
+A tangible reflection of this: I'm currently the **#4 contributor** on the [UW–Madison DSI open-source leaderboard](https://uw-madison-dsi.github.io/open-source-contributions/).
 
 A summary of my ongoing work lives in the [DSI research portfolio](https://dsi.wisc.edu/research-portfolio/). The best way to reach me is by [email](mailto:moros2@wisc.edu).
 
