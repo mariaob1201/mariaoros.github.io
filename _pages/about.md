@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Madison, WI</p>
+    <p>USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +27,7 @@ latest_posts:
 
 My research sits at the intersection of **causal inference**, **machine learning**, and **foundation models** — translating theoretical advances into real-world applications across biopharma, agriculture, finance, and systems engineering.
 
-One of the most formative chapters of my career unfolded under the mentorship of Professor [Kyle Cranmer](https://www.physics.wisc.edu/directory/cranmer-kyle/) and Professor Damon Smith, who supported me both professionally and as a whole person. Their guidance shaped who I am, and every milestone I reach carries their positive influence in my career.
-
-I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/) in Mexico, with mentorship from Dr. Carlos Valero and Dr. Rafael Herrera Guzmán.
+I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/). I'm thankful for the formative path I've gain over these years, the guidance of professors at UW-Madison and CIMAT have shaped who I am, and every milestone I reach carries a positive influence of my mentors.
 
 ## How I work
 
