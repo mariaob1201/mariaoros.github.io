@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mariaob1201
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mariaob1201/rand_walk_metropolisHasting
+  - mariaob1201/gibbs_sampler
+  - mariaob1201/ag_forecasting_app_v3
