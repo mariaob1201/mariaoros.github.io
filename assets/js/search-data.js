@@ -87,7 +87,7 @@ ninja.data = [{
               window.location.href = "/mariaoros.github.io/projects/2_agricultural_forecasting/";
             },},{id: "projects-fungicide-roi-calculator",
           title: 'Fungicide ROI calculator',
-          description: "Economic ROI tool for fungicide profitability assessment.",
+          description: "Economic ROI tool for fungicide profitability — corn diseases, soybean white mold, and alfalfa foliar diseases.",
           section: "Projects",handler: () => {
               window.location.href = "/mariaoros.github.io/projects/3_roi_calculator/";
             },},{id: "projects-open-lambda",
