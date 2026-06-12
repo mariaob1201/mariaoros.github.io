@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Maria
+first_name: Mary
 middle_name:
-last_name: Oros
+last_name: J
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Maria Oros, Data Scientist at the University of Wisconsin–Madison.
+  Personal website of Mary J, Data Scientist at the University of Wisconsin–Madison.
 footer_text: >
-  &copy; Maria Oros. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  &copy; Mary J. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   &middot;
   <img src="https://hits.sh/mariaob1201.github.io/mariaoros.github.io.svg?style=flat-square&label=visits&color=informational" alt="visit counter" style="vertical-align: middle;">.
-keywords: maria oros, uw madison, phd, academic, research # add your own keywords or leave empty
+keywords: data science, uw madison, machine learning, academic, research # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦡 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

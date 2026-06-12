@@ -1,6 +1,6 @@
 # mariaoros.github.io
 
-Personal website of **Maria Oros Barron** — Data Scientist at the [Data Science Institute](https://datascience.wisc.edu/), University of Wisconsin–Madison.
+Personal website of **Mary J** — Data Scientist at the [Data Science Institute](https://datascience.wisc.edu/), University of Wisconsin–Madison.
 
 **Live:** <https://mariaob1201.github.io/mariaoros.github.io/>
 
@@ -42,4 +42,4 @@ Then open <http://localhost:4000/mariaoros.github.io/>.
 
 ## License
 
-Site content © Maria Oros. Theme released under the [MIT License](LICENSE) by the al-folio maintainers.
+Site content © Mary J. Theme released under the [MIT License](LICENSE) by the al-folio maintainers.
