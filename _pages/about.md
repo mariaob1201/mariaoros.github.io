@@ -27,7 +27,7 @@ latest_posts:
 
 My research sits at the intersection of **causal inference**, **machine learning**, and **foundation models** — translating theoretical advances into real-world applications across biopharma, agriculture, finance, and systems engineering.
 
-A formative chapter of my career unfolded under the mentorship of [Kyle Cranmer](https://www.physics.wisc.edu/directory/cranmer-kyle/) who helped me grow and shaped how I think about research and professional development.
+One of the most formative chapters of my career unfolded under the mentorship of Professor [Kyle Cranmer](https://www.physics.wisc.edu/directory/cranmer-kyle/) and Damon Smith who supported me professionally and as a whole individual. I grew up and thrive in part because of the trust we built over time with my work.
 
 I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/) in Mexico, with mentorship from Dr. Carlos Valero and Dr. Rafael Herrera Guzmán.
 
