@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research interests sit at the intersection of **causal inference**, **machine learning**, and **foundation models** — with a focus on translating theoretical advances into practical applications. Across roles in industry and academia, I've worked on problems in biopharmaceutical purification, agricultural forecasting, finance, and serverless systems.
+My research sits at the intersection of **causal inference**, **machine learning**, and **foundation models** — translating theoretical advances into real-world applications across biopharma, agriculture, finance, and systems engineering.
 
-I was fortunate to have worked with Professor [Kyle Cranmer](https://www.physics.wisc.edu/directory/cranmer-kyle/) and consder him my mentor in a phase of my carrer. He saw my pontential and commitment and he helped me thrive in environments where I was often the only one who looked like me, while also guiding my professional development.
+A formative chapter of my career unfolded under the mentorship of [Kyle Cranmer](https://www.physics.wisc.edu/directory/cranmer-kyle/) who helped me grow and shaped how I think about research and professional development.
 
 I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/) in Mexico, with mentorship from Dr. Carlos Valero and Dr. Rafael Herrera Guzmán.
 
