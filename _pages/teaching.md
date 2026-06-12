@@ -2,14 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
+description: Courses taught and research mentorship during my time in Mexico.
+nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Courses taught
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+Between **2011 and 2016**, I taught the following undergraduate courses at the [University of Guanajuato](https://www.ugto.mx/) and at [CIMAT](https://www.cimat.mx/):
 
-{% include courses.liquid %}
+- **Probability and Statistics**
+- **Mathematical Physics**
+- **Calculus**
+
+## Research
+
+- **Research Assistant**, CIMAT — 2016
