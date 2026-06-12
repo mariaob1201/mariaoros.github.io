@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mariaoros.github.io/projects/";
           },
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "Selected GitHub repositories.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/mariaoros.github.io/repositories/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "Curriculum Vitae. Download the PDF using the icon on the right.",
