@@ -110,7 +110,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/mariaoros.github.io/assets/rendercv/rendercv_output/Maria_Oros_Barron_CV.pdf", "_blank");
+          window.open("/mariaoros.github.io/assets/rendercv/rendercv_output/Mary_J_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
