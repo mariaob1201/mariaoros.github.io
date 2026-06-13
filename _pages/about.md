@@ -31,7 +31,11 @@ I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/)
 
 ## How I work
 
-I want my work to be useful for the social good — to advance research and to impact the quality of life of many. I believe the way to achieve great things is through **collaboration, rapid iteration, and hard work**. In my collaborations, I try to make people feel supported and valued, so we can both do our best in our contributions.
+I want my work to be useful for the social good — to advance research and to positively impact the quality of life of many. 
+
+I believe the way to achieve great things is through **collaboration, receptiveness, rapid iteration, and hard work** — letting the work lead.
+
+In my collaborations, I try to make people feel supported and valued, so we can both do our best in our contributions.
 
 A tangible reflection of this: I'm currently the **#4 contributor** on the [UW–Madison DSI open-source leaderboard](https://uw-madison-dsi.github.io/open-source-contributions/).
 
