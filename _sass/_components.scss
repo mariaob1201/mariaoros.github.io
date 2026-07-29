@@ -184,18 +184,16 @@ ul.task-list input[type="checkbox"] {
 .repo-list {
   display: flex;
   flex-direction: column;
+  border-top: 1px solid var(--global-divider-color);
+  margin-top: 1.5rem;
+  padding-top: 0.5rem;
 }
 
 .repo-item {
   display: block;
-  padding: 1rem 0;
-  border-bottom: 1px solid var(--global-divider-color);
+  padding: 1.25rem 0;
   color: var(--global-text-color);
   text-decoration: none;
-
-  &:first-child {
-    border-top: 1px solid var(--global-divider-color);
-  }
 
   &:hover {
     .repo-name {
