@@ -1,11 +1,19 @@
 github_users:
   - mariaob1201
 
-repo_description_lines_max: 2
-
 github_repos:
-  - mariaob1201/rand_walk_metropolisHasting
-  - mariaob1201/gibbs_sampler
-  - mariaob1201/ag_forecasting_app_v3
-  - mariaob1201/paired-model-reasoning
-  - mariaob1201/Miami-marlins-challenge
+  - repo: mariaob1201/rand_walk_metropolisHasting
+    description: Random walk Metropolis-Hastings sampler
+    language: Python
+  - repo: mariaob1201/gibbs_sampler
+    description: "Gibbs sampling: computing example with normal likelihood"
+    language: Python
+  - repo: mariaob1201/ag_forecasting_app_v3
+    description: Ag forecasting app v2
+    language: Python
+  - repo: mariaob1201/paired-model-reasoning
+    description: A paired-model experiment on the same examples, each with an image, supporting metadata, and an optional gold label.
+    language: Python
+  - repo: mariaob1201/Miami-marlins-challenge
+    description: Estimate each hitter's underlying average exit velocity against MLB-level competition and project it into the 2024 season.
+    language: Python

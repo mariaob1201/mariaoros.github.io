@@ -163,10 +163,64 @@ ul.task-list input[type="checkbox"] {
 
 // Repositories
 
-@media (min-width: 768px) {
-  .repo {
-    max-width: 50%;
+.repo-users {
+  margin-bottom: 1.5rem;
+}
+
+.repo-user {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.repo-user-name {
+  font-weight: 600;
+}
+
+.repo-user-views {
+  height: 1rem;
+}
+
+.repo-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.repo-item {
+  display: block;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+  color: var(--global-text-color);
+  text-decoration: none;
+
+  &:first-child {
+    border-top: 1px solid var(--global-divider-color);
   }
+
+  &:hover {
+    .repo-name {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+.repo-name {
+  display: block;
+  font-weight: 600;
+}
+
+.repo-desc {
+  display: block;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  margin-top: 0.15rem;
+}
+
+.repo-lang {
+  display: block;
+  color: var(--global-text-color-light);
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
 }
 
 // Social (bottom)

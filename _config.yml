@@ -29,20 +29,16 @@ back_to_top: true # set to false to disable the back to top button
 # Theme
 # -----------------------------------------------------------------------------
 
-# repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+# repo trophies (disabled: the free github-profile-trophy instance now returns
+# 402 Payment Required, and the badge board doesn't fit the minimalist style anyway)
 repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+  enabled: false
 
-# External service URLs for repository page
-# To use a different instance or service for displaying GitHub stats and trophies,
-# update these URLs. These are used in the repository templates.
-external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+# GitHub profile view counter (plain, low-key badge; komarev.com is a stable
+# free service unaffected by the github-readme-stats.vercel.app outages)
+github_profile_views:
+  enabled: true
+  url: https://komarev.com/ghpvc
 
 # -----------------------------------------------------------------------------
 # RSS Feed
