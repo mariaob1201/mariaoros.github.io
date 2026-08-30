@@ -25,22 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research sits at the intersection of **causal inference**, **machine learning**, and **foundation models** — translating theoretical advances into real-world applications across biopharma, agriculture, finance, and systems engineering.
+I'm honored to be a full-time PhD student in Statistics at UW–Madison, mentored by exceptional faculty.
 
-I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/). I'm thankful for the formative path I've gain over these years, the guidance of professors at UW-Madison and CIMAT have shaped who I am, and every milestone I reach carries a positive influence of my mentors.
+I majored in Mathematics at the [University of Guanajuato](https://www.ugto.mx/) and [CIMAT](https://www.cimat.mx/). I worked professionally in the financial sector and at the Data Science Institute at UW-Madison.
 
-## How I work
-
-I want my work to be useful for the social good — to advance research and to positively impact the quality of life of many. 
-
-I believe the way to achieve great things is through **collaboration, receptiveness, rapid iteration, and hard work** — letting the work lead.
-
-In my collaborations, I try to make people feel supported and valued, so we can both do our best in our contributions.
-
-A tangible reflection of this: I'm currently the **#4 contributor** on the [UW–Madison DSI open-source leaderboard](https://uw-madison-dsi.github.io/open-source-contributions/).
-
-A summary of my ongoing work lives in the [DSI research portfolio](https://dsi.wisc.edu/research-portfolio/). The best way to reach me is by [email](mailto:moros2@wisc.edu).
-
-> Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.
->
-> — John Tukey, *The Future of Data Analysis* (1962)
+A summary of my research work lives in the [DSI research portfolio](https://dsi.wisc.edu/research-portfolio/). The best way to reach me is by [email](mailto:moros2@wisc.edu).
