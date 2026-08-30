@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses taught and research mentorship during my time in Mexico.",
+          description: "Teaching and TA experience.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/mariaoros.github.io/teaching/";
