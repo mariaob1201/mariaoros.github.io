@@ -24,14 +24,29 @@ cv:
         location: Guanajuato, Mexico
         area: Mathematics
         degree: BS
+        highlights:
+          - "Awarded a scholarship for research exploring properties of Hamiltonian dynamical systems; thesis approved unanimously by the committee."
 
     experience:
       - position: Data Scientist
         company: Data Science Institute, University of Wisconsin–Madison
         location: Madison, WI
         start_date: "2023"
-        end_date: present
-        summary: "Developing machine learning methods and statistical models for real-world decision-making across collaborations in agriculture, biopharma, and other domains."
+        end_date: "2026"
+        summary: "Developed machine learning methods and statistical models for real-world decision-making across collaborations in agriculture, biopharma, and other domains, before transitioning to full-time PhD studies. Mentored by Kyle Cranmer."
+
+    teaching:
+      - position: Teaching Assistant
+        company: "STAT 240 – Statistical Modeling, University of Wisconsin–Madison"
+        location: Madison, WI
+        start_date: "2026"
+        end_date: "2026"
+        summary: "Fall 2026, Department of Statistics (PhD)."
+
+      - position: Teaching Assistant
+        company: Mathematics, CIMAT
+        location: Guanajuato, Mexico
+        summary: "Undergraduate."
 
       - position: Data Analyst
         company: Game Coder Studios
